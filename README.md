@@ -9,7 +9,4 @@ Vice captain&COO：Super
 Member of founding team&CMO：CDIV
 毕业于中国中山大学，专注研究区块链技术10年，曾任比特中国首席顾问，瑞波(XRP)早期先驱者,波场(TRX)VIP用户，曾主导过中国多个大型项目应用落地。目前担任ERKE项目市场营销负责人。
 
-ERKE 研发团队成员
-1
-2
-3
+
